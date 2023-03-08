@@ -11,7 +11,7 @@
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID           "TMPLLEZTns6T"
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "PmkqHjmvTEhSfngESMC_9vmnc3_X7Ka7"
+#define BLYNK_AUTH_TOKEN            "YOUR AUTH TOKEN"
 
 
 
@@ -51,8 +51,8 @@ char auth[] = "PmkqHjmvTEhSfngESMC_9vmnc3_X7Ka7";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "TP-LINK_2616";
-char pass[] = "83335112";
+char ssid[] = "WIFI_SSID";
+char pass[] = "PassWord";
 
 
 
